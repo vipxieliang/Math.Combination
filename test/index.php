@@ -1,5 +1,5 @@
 <?php
-include('MathCombination.class.php');
+require_once "/../src/MathCombination.class.php";
 //Testing
 $MathCombination    = new MathCombination();
 
