@@ -1,5 +1,5 @@
 {
-    "name": "Sharif/MathCombination",
+    "name": "vipxieliang/MathCombination",
     "description": "MathCombination",
     "keywords": ["MathCombination", "Math","Combination"],
     "homepage": "https://github.com/vipxieliang/Math.Combination",
@@ -8,13 +8,13 @@
     "version": "1.0.0",
     "authors": [
         {
-            "name": "Sharif",
+            "name": "vipxieliang",
         }
     ],
     "require": {
         "php": ">=5.2.0"
     },
     "autoload": {
-        "psr-0": {"Sharif\\MathCombination": "src/"}
+        "psr-0": {"vipxieliang\\MathCombination": "src/"}
     },
 }
